@@ -1,0 +1,2 @@
+print("addition ",8+6);
+print(“subtraction”,8-5);
