@@ -1,0 +1,3 @@
+print("addition",8+7)
+print("subtraction",8-7)
+print("division",8/7)
