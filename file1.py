@@ -2,5 +2,6 @@ print(10-2)
 print("addition",8+7)
 print("subtraction",8-7)
 print("division",8/7)
-for i in range(2):
+for i in range(5):
     print(i)
+print("hello")
