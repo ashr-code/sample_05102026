@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 print("addition",8+7)
 print("subtraction",8-7)
 print("division",8/7)
+=======
+print("addition ",8+6);
+print(“subtraction”,8-5);
+print(“multiplication”, 8*5);
+>>>>>>> feature-branch
