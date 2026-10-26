@@ -1,6 +1,0 @@
-<<<<<<< HEAD
-This line is added before stash
-=======
-My name is Ashritha
-This content is added in feature branch
->>>>>>> feature-branch
